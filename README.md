@@ -1,0 +1,1 @@
+This is Nitsi's first git project
